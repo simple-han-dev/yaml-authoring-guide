@@ -1,0 +1,8 @@
+# depth 0
+person:
+  # depth 1 (2칸 들여쓰기)
+  name: simplehan 
+  address:
+    # depth 2 (4칸 들여쓰기)
+    street: "광진구"
+    city: "서울"

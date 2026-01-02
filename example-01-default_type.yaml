@@ -1,0 +1,11 @@
+# 문자열 값
+name: "simple han"
+
+# 숫자 값
+age: 30
+
+# 불리언 값
+is_student: false
+
+# 따옴표 없는 문자열도 가능
+city: seoul

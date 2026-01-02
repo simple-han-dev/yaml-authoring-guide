@@ -1,0 +1,7 @@
+skills:
+  - language: JavaScript 
+    level: expert
+  - language: SQL
+    level: intermediate
+  - language: DevOps
+    level: beginner
